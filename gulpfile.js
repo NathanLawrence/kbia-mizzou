@@ -28,3 +28,5 @@ gulp.task('html', function(){
 	return gulp.src('components/**/*.html')
 	.pipe(gulp.dest('build'));
 });
+
+gulp.task('build', ['img','less','html']);
