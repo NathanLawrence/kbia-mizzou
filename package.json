@@ -1,0 +1,28 @@
+{
+  "name": "kbia-mizzou",
+  "version": "1.0.0",
+  "description": "KBIA Mizzou Special Project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLawrence/kbia-mizzou.git"
+  },
+  "author": "nathan@nathanlawrence.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanLawrence/kbia-mizzou/issues"
+  },
+  "homepage": "https://github.com/NathanLawrence/kbia-mizzou#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-less": "^3.0.5",
+    "gulp-s3": "^0.3.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
