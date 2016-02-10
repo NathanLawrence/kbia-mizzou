@@ -20,7 +20,8 @@
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.1",
     "gulp-less": "^3.0.5",
-    "gulp-s3": "^0.3.0"
+    "gulp-s3": "^0.3.0",
+    "gulp-shell": "^0.5.2"
   },
   "dependencies": {
     "jquery": "^2.2.0"

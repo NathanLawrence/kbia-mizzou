@@ -1,7 +1,8 @@
 var gulp = require('gulp'),
 	gutil = require('gulp-util'),
 	less = require('gulp-less'),
-	s3 = require('gulp-less'),
+	s3 = require('gulp-s3'),
+	shell = require('gulp-shell'),
 	browserify = require('gulp-browserify');
 
 gulp.task('test', function(){
@@ -29,4 +30,15 @@ gulp.task('html', function(){
 	.pipe(gulp.dest('build'));
 });
 
+gulp.task('upload', shell.task([
+	'aws s3 cp build s3://apps.kbia.org/mizzou-crossroads --recursive'
+]));
+
 gulp.task('build', ['img','less','html']);
+
+gulp.task('deploy', ['build', 'upload']);
+
+gulp.task('watch',function(){
+	gutil.log('Gulp will say that this task has finished, but don\'t believe its dirty lies.');
+	gutil.log('Hit \^c to actually exit watch mode.');
+});
