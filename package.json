@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/NathanLawrence/kbia-mizzou#readme",
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
     "gulp-less": "^3.0.5",
     "gulp-s3": "^0.3.0",
