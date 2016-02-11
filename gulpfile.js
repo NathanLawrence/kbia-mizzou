@@ -31,7 +31,7 @@ gulp.task('html', function(){
 });
 
 gulp.task('upload', shell.task([
-	'aws s3 cp build s3://apps.kbia.org/mizzou-crossroads --recursive'
+	'aws s3 cp build s3://apps.kbia.org/mizzou-crossroads --recursive --profile kbia'
 ]));
 
 gulp.task('build', ['img','less','html']);
