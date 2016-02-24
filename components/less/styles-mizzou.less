@@ -10,14 +10,24 @@
 
  	h1{
  		.fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 3em;
+            padding-top : 3em;
+        }
  	}
 
  	.subtitle{
  		.fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 2em;
+        }
  	}
 
  	.author{
  		.fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 1.2em;
+        }
  	}
  }
 
@@ -51,7 +61,7 @@
 
 
  	h1{
- 		padding-top : 1.5em;
+ 		padding-top : 0.5em;
  		.fade-in-page-load(2s,0.2s);
  		.no-select;
  		@media screen and (max-width: @screen-sm){
@@ -68,10 +78,7 @@
  	.author{
  		.fade-in-page-load(2s,0.2s);
  		.no-select;
- 		padding-bottom: 1em;
- 		@media screen and (max-width: @screen-sm){
- 			padding-bottom: 0.5em;
- 		}
+ 		padding-bottom: 0.5em;
  	}
 
  	#episode-list{
