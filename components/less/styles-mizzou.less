@@ -44,16 +44,41 @@
     width: 100%;
     margin-bottom: 0em;
 
+
+
  	h1{
  		padding-top : 1.5em;
  		.fade-in-page-load(2s,0.2s);
+ 		.no-select;
+ 		@media screen and (max-width: @screen-sm){
+    		padding-top : 0.5em;
+    	}
  	}
 
  	.subtitle{
  		.fade-in-page-load(2s,0.2s);
+ 		.no-select;
  	}
 
  	.author{
  		.fade-in-page-load(2s,0.2s);
+ 		.no-select;
+ 		padding-bottom: 1em;
  	}
+
+ 	#episode-list{
+ 		.fade-in-page-load(2s,0.5s);
+ 		color: #fff;
+ 		padding-top: 1em;
+
+ 		.episode-enum{
+ 			.row;
+ 			padding-top: 1em;
+
+ 			p{
+ 				font-size: 1.2em;
+ 			}
+ 		}
+ 	}
+
  }
