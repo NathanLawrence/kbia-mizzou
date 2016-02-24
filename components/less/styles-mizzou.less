@@ -44,6 +44,10 @@
     width: 100%;
     margin-bottom: 0em;
 
+    @media screen and (max-width: @screen-sm){
+    	bottom: -100px;
+    }
+
 
 
  	h1{
@@ -65,15 +69,33 @@
  		.fade-in-page-load(2s,0.2s);
  		.no-select;
  		padding-bottom: 1em;
+ 		@media screen and (max-width: @screen-sm){
+ 			padding-bottom: 0.5em;
+ 		}
  	}
 
  	#episode-list{
  		color: #fff;
  		padding-top: 1em;
 
+ 		@media screen and (max-width: @screen-sm){
+    			padding-top : 0.5em;
+    	}
+
  		.episode-enum{
  			.row;
  			padding-top: 1em;
+
+ 			@media screen and (max-width: @screen-sm){
+    			padding-top: 0.5em;
+    		}
+ 			
+ 			h2{
+ 				@media screen and (max-width: @screen-sm){
+    				font-size : 1.3em;
+    				font-weight: bold;
+    			}
+ 			}
 
  			a{
 
@@ -86,6 +108,10 @@
 
  			p{
  				font-size: 1.2em;
+
+ 				@media screen and (max-width: @screen-sm){
+    				font-size : 1em;
+    			}
  			}
  		}
 
