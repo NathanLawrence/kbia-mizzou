@@ -29,3 +29,30 @@
  #intro{
  	padding-top : 1.2em;
  }
+
+.front-card-mizzou{
+ 	background: lighten(#41474E,10%) url("../img/mizzou-front.jpg") no-repeat center center fixed;
+ 	background-blend-mode : multiply;
+ 	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    position: absolute;
+    top: @navbar-height;
+    bottom: 0px;
+    width: 100%;
+    margin-bottom: 0em;
+
+ 	h1{
+ 		.fade-in-page-load(2s,0.2s);
+ 	}
+
+ 	.subtitle{
+ 		.fade-in-page-load(2s,0.2s);
+ 	}
+
+ 	.author{
+ 		.fade-in-page-load(2s,0.2s);
+ 	}
+ }
