@@ -67,7 +67,6 @@
  	}
 
  	#episode-list{
- 		.fade-in-page-load(2s,0.5s);
  		color: #fff;
  		padding-top: 1em;
 
@@ -75,10 +74,30 @@
  			.row;
  			padding-top: 1em;
 
+ 			a{
+
+ 				color: #fff;
+
+ 				&:hover{
+ 					color: #fff;
+ 				}
+ 			}
+
  			p{
  				font-size: 1.2em;
  			}
  		}
+
+ 		#chapter-1{
+ 			.fade-in-page-load(2s,0.2s);
+ 		}
+ 		#chapter-2{
+ 			.fade-in-page-load(2s,0.5s);
+ 		}
+ 		#chapter-3{
+ 			.fade-in-page-load(2s,.75s);
+ 		}
+
  	}
 
  }
