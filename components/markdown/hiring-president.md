@@ -1,38 +1,6 @@
-Intro: From the KBIA Newsroom in Columbia, I’m Ryan Famuliner, and this is part 2 of our special series: Mizzou at a Crossroads. 
-Yesterday, you heard about the complicated racial history of the University of Missouri, including the events that eventually led to the resignation of former University of Missouri system president Tim Wolfe. You heard Marshall Allen, a member of Concerned Student 1-9-5-0, explain why the group targeted Wolfe.
+Most timelines of the events that led to the November 9th resignation of former UM system president Tim Wolfe start at the 2015 homecoming parade, when the group Concerned Student 1950 stopped Wolfe’s car and recited a history of racism in Missouri and on the Mizzou campus. Wolfe received criticism for not speaking with the students, and many believe that perceived slight made Wolfe a target.
 
-because we knew we had to make a head change as far as our campus… We figured that getting him out or making sure that we got him to resign was one of the first steps in making sure that we had change. Because if the change starts at the top than the bottom has to follow.
-
-Today we’re talking about how Wolfe became the focal point of those protests from the perspective of the people who hired him, and with t            
-
-Kristofor Husted and Bram Sable-Smith report. 
-
-Most timelines of the events that led to the November 9th resignation of former UM system president Tim Wolfe start here, at the 2015 homecoming parade, when the  group Concerned Student 1950 stopped Wolfe’s car and recited a history of racism in Missouri and on the Mizzou campus. 
-
-Act :35
-This is not an indictment on white folk but it is an indictment on white structures and white supremacy. 
-
-In 1839, the University of Missouri was established as a flagship institution west of the Mississippi river. this institution was for white men only. only white men. And was built on the back of black people, let me repeat that. let me repeat that. 
-
-Wolfe received criticism for not speaking with the students, and many believe that perceived slight made Wolfe a target.
-
-Act
-Jim: It came to a head during MU’s Homecoming parade. Student’s are concerned about the UM president’s perceived passive attitude on Racism. Good evening I’m Jim reik,
-Bri ttany: And I’m Brittany Pieper. Today one of those students began a hunger strike and says he’ll continue until president Tim Wolfe is no longer in office. 
-
-The pressure continued to mount.
-Act
-Tim: I will give you an answer and I’m sure it will be a wrong answer. Systematic oppression is because you don’t believe you have the equal opportunity 
-Crowd: You don't believe!!??
-Did you just blame us for systematic oppression, Tim Wolfe? Did you just blame black students?
-
-Until finally...
-
-BUILDING PROTEST NATS ON D DAY THEN STOP
-
-But to understand how Tim Wolfe, the president of the entire university system ended up with his head in the guillotine, we have to take it back much earlier to when he was hired.
-
-MUSIC INDICATING GOING BACK/RESETTING 
+But to understand how Tim Wolfe, the president of the entire university system, became the target of this movement, we have to turn back the clock much further, to when Wolfe was first hired.
 
 We spoke to seven of the curators who played some role in the hiring process of Tim Wolfe:  in the beginning, the end, or all the way through.  From those conversations, a few common themes emerged.   The first:it is impossible to talk about Tim Wolfe’s hiring without first mentioning his predecessor: Gary Forsee
 
@@ -360,14 +328,9 @@ Christian 3700
 This is a moment for Mizzou to be courageous and by being courageous bold and innovative, without hesitation, we will be a leading university and a thought leader where people will be coming to us and saying hey how did you overcome those issues you had, because not only did you rebound, but you're bigger better and bolder than you were before.
 
 I’m Kristofor Husted. And I’m Bram Sable-Smith
-###
 
 Coming up in part three of our series, we look at how the Columbia campus plan to address many of the issues brought to the forefront last semester. And they’ll discuss what is even achievable when it comes to addressing issues of race.  
 
 4:20 How much can we change? Tremendous. We all can. We all can. There is room for change on every level, from administration, to students to faculty to staff, we all don’t know everything, we’re all goring, and that’s what culture is, culture evolves and culture is evolving here at Mizzou.
 
 Tune in tomorrow at 6 _ for the third and final piece of the series “Mizzou at a Crossroads” on KBIA. And visit KBIA.org to find part 1.
-
-
-
-
