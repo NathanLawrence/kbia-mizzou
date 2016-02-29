@@ -1,4 +1,4 @@
-Most timelines of the events that led to the November 9th resignation of former UM system president Tim Wolfe start at the 2015 homecoming parade, when the group Concerned Student 1950 stopped Wolfe’s car and recited a history of racism in Missouri and on the Mizzou campus. Wolfe received criticism for not speaking with the students, and many believe that perceived slight made Wolfe a target.
+Most timelines of the events that led to the November 9th resignation of former UM system president Tim Wolfe start at the 2015 homecoming parade, when the group Concerned Student 1950 stopped Wolfe’s car and recited a history of racism in Missouri and on the Mizzou campus. Wolfe was criticized for not speaking with the students, and many believe that perceived slight made Wolfe a target.
 
 But to understand how Tim Wolfe, the president of the entire university system, became the target of this movement, we have to turn back the clock much further, to when Wolfe was first hired.
 
@@ -8,11 +8,11 @@ KBIA spoke to seven of the curators who played some role in the hiring process o
 
 “He was not your prototype of what historically had been viewed as president of a university system,” Don Downing, a former member of the University of Missouri System Board of Curators explained. “Gary came from a business background. He was CEO of Sprint.”
 
-Before Gary Forsee became president of the University system, he was president and CEO of Sprint Nextel, before that, he worked for BellSouth, a telecommunications corporation, and for Cingular wireless, and for Global one, and for AT&T. In short, while he had a lot of experience, none of it was in higher education. And back in 2007, hiring a business person to run an academic institution was not as common of a practice, but some of the most pressing matters facing the University at the time of Forsee’s tenure were not inherently academic. Especially one: state funding. 
+Before Gary Forsee became president of the University system, he was president and CEO of Sprint Nextel, before that, he worked for BellSouth, a telecommunications corporation, and for Cingular wireless, and for Global One, and for AT&T. In short, while he had a lot of experience, none of it was in higher education. And back in 2007, hiring a business person to run an academic institution was not as common of a practice, but some of the most pressing matters facing the University at the time of Forsee’s tenure were not inherently academic. Especially one: state funding. 
 
 Beginning in about 2002, state appropriations for the University of Missouri system began to dip. On just the Columbia campus, student enrollment grew by 45% between 2001 and 2012, In that same time period, state funding to the University dropped by 14 percent, from 193 million dollars down to 166 million. 
 
-There are only a few ways to make up that difference in funding. Tuition is one of them. [Here’s David Wasinger, a curator when Forsee was hired.]
+There are only a few ways to make up that difference in funding. Tuition is one of them.
 
 "Tuition had gotten too high and we -- at least I -- wanted someone to monitor and make the university more efficient," said David Wasinger, another former curator. "A lot of the administrators and a lot of the faculty have an insatiable appetite for spending."
 
@@ -44,7 +44,7 @@ Then the tide began to shift after a few unpopular decisions and silence on a fe
 
 "He comes into the office, looks over budgets and sees that the university press was in the red," he explained, "and he very quickly said 'we’re not going to keep a university press that’s in the red' without understanding that there is not a single university press in the country that makes money. In other words, universities subsidize the presses because it is an absolutely essential part of the investment in education that knowledge be distributed and disseminated to the world really."
 
-Ultimately Wolfe reversed this decision, but critics point to other decisions too -- like the expansion of sports facilities and over attentiveness to large donors at the expense of academic affairs - the institution’s bread and butter. To many of the curators, Wolfe’s biggest misstep may have been the hiring of R. Bowen Loftin as chancellor of the flagship campus in 2013. Loftin, who previously was president at Texas A&M University, says he was hired by Wolfe to shake things up.
+Ultimately Wolfe reversed this decision, but critics point to other decisions, too -- like the expansion of sports facilities and overattentiveness to large donors at the expense of academic affairs, the institution’s bread and butter. To many of the curators, Wolfe’s biggest misstep may have been the hiring of R. Bowen Loftin as chancellor of the flagship campus in 2013. Loftin, who previously was president at Texas A&M University, says he was hired by Wolfe to shake things up.
 
 "The curators and president Wolfe both told me I was to be an agent of change."
 
