@@ -74,7 +74,7 @@ The group issued a list of demands, and, since Wolfe was slow to acknowledge the
 
 Jonathan Butler, a black graduate student, began a hunger strike, saying it would only end when Wolfe was out as President. The football team backed the protesters, boycotting practice and games until Butler could eat again - when Wolfe was gone. Graduate students joined in. Faculty came out stongly in support of the protests, too. 
 
-On Nov. 9, less than a week before the university would face a $1 million fine for not participating in a football game if strike continued, the school reached its breaking point. Wolfe resigned minutes in to an emergency Board of Curators meeting. The protesters were ecstatic. But, as Craig Van Matre explains, the people who hired Wolfe were not.
+On Nov. 9, less than a week before the university would face a $1 million fine for not participating in a football game if strike continued, the school reached its breaking point. Wolfe resigned minutes in to an emergency Board of Curators meeting. The protesters were ecstatic, but, as Craig Van Matre explains, the people who hired Wolfe were not.
 
 "Wolfe did the only thing that he could do and resigned, then they had this symbolic head on this symbolic stick and not one thing of any practical value came out of it from there on. Very disappointing -- very disappointing all the way around."
 
@@ -96,7 +96,7 @@ In his confidential letter to friends that was later made public, Wolfe said he 
 
 Tom Hiles, the Vice Chancellor for Advancement, fielded a lot of concerns from alumni about the unrest. He reached out to Rod Kirsch, the senior vice president for Development and Alumni Relations at Penn State, who was on staff during the Jerry Sandusky debacle, if that tells you something about the magnitude and pace of the crisis. He was flown out to Columbia for a day. A crisis consultant was brought into the system for a week. 
 
-“When we’re in National headline coverage," Hiles said, "we’re getting emails and calls -- a lot of confusion, anger and frustration expressed.”
+“When we’re in national headline coverage," Hiles said, "we’re getting emails and calls -- a lot of confusion, anger and frustration expressed.”
 
 The Marketing and Communication department, headed by Interim Vice Chancellor Jennifer Hollingshead, put out a 10-point state of Mizzou article seemingly meant to salvage the school’s image. Then, university system officials, including Hiles and Hollingshead, held a conference call with Missouri alumni who were in the communications industry to hear their thoughts on the state of mizzou article, a tv spot, editorials to newspapers, and the state of the university address. 1977 alum Ty Christian, who is black, was on the call. He says the alumni input seemed to fall on deaf ears.
 
@@ -116,7 +116,7 @@ But on the other side, students today are also starting to understand they are a
 
 "This means that this group of students is more likely to question the system to ask why things are happening, to object to the con ditions of their lives. And so, I think the fact is that we’ve seen increases in enrollment among people whose parents didn’t go to college, among people from ethnic and racial minority groups and from people from low income families and it’s quite possible that adding them to the dynamic of a college campus helps to generate this change that we’re seeing today."
 
-This will be an important issue on the table when the latest board of curators starts their hiring process for Wolfe’s replacement. The curators have to answer: How do you balance the economic needs of a university system with the academic and development needs of its students.
+This will be an important issue on the table when the latest board of curators starts their hiring process for Wolfe’s replacement. The curators have to answer: How do you balance the economic needs of a university system with the academic and development needs of its students?
 
 "It's a brave new world," Pamela Hendrickson, current chair of the board, said, "and President Middleton has brought to the fore how different the students' experiences on campus today are from those we experienced when we went to college, and even from what my children experienced when they went through college. We need to be more attunded to that, and to the way students see the world."
 
