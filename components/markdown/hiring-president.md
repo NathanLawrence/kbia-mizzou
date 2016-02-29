@@ -36,69 +36,28 @@ The curators courted Wolfe, trying to entice him to come back to his alma mater,
 
 "Tim Wolfe is an outstanding individual," Craig Van Matre, who was involved in the hiring process, explained. "He has a very good personality, He is a good speaker, he is intelligent and quick, but he doesn’t have the kind of personality characteristics that are off-putting. He has two parents who were PhDs and professors at the University so he grew up with an academic background in effect in Columbia, Missouri."
 
-Wolfe got the job and things started okay. He was a good ol boy who graduated from Mizzou. When the University came under scrutiny for their shortcomings related to Title IX issues, they were addressed quickly.. And... 
+Wolfe got the job and things started okay. He was a good 'ol boy who graduated from Mizzou. When the University came under scrutiny for their shortcomings related to Title IX issues, they were addressed quickly.
+
+## Heading Here
+
+Then the tide began to shift after a few unpopular decisions and silence on a few major issues. Ebersole says Wolfe’s first misstep was in 2012, deciding to close the University-operated publishing house, the University of Missouri press.
+
+"He comes into the office, looks over budgets and sees that the university press was in the red," he explained, "and he very quickly said 'we’re not going to keep a university press that’s in the red' without understanding that there is not a single university press in the country that makes money. In other words, universities subsidize the presses because it is an absolutely essential part of the investment in education that knowledge be distributed and disseminated to the world really."
+
+Ultimately Wolfe reversed this decision, but critics point to other decisions too -- like the expansion of sports facilities and over attentiveness to large donors at the expense of academic affairs - the institution’s bread and butter. To many of the curators, Wolfe’s biggest misstep may have been the hiring of R. Bowen Loftin as chancellor of the flagship campus in 2013. Loftin, who previously was president at Texas A&M University, says he was hired by Wolfe to shake things up.
+
+"The curators and president Wolfe both told me I was to be an agent of change."
+
+Loftin moved swiftly as chancellor. He held the position for not even two years, but in that time he rocked the Columbia campus boat. Under Loftin, 110 faculty and 13 administrators accepted early retirement, reportedly saving the university millions. 
+
+"To be able to get about 10% of our senior tenured faculty to retire in one year, that's an extraordinary thing," he said. "To free up the resources required to renew our faculty in a very short period of time. that's a very rare thing for a campus to be able to do so, I’m very proud this university was able to do that."
+
+But last year, when student aid and benefits ended up on the chopping block, things got sloppy. The University announced it would cut Graduate student tuition waivers in half, then reversed the decision. Another snafu? Health insurance subsidies for graduate students were dropped with only a one day heads up -- a decision Loftin himself eventually reversed. The damage was done, though. Large student demonstrations popped up on campus in response to these missteps, with many faculty backing them.
+
+Then there were other high-profile decisions - cutting the vice chancellor for health affairs position, revoking hospital privileges for a planned parenthood doctor, even the resignation of the dean of the medical school was attributed to Loftin. All of these decisions drew backlash, from students, from faculty, even administrators - and most of it was directed at Loftin, but he claims in every case, he was consulting with Tim Wolfe. 
 
 
-
-
-
-Don Downing [12:10ish]
-Tim hired Hank Foley from Penn State, and during Hank’s time at Penn State he was one of the leaders in the country at obtaining federal grants for research and development. And Hank made some strides at our university, as well as you probably know, Hank is now the chancellor at the campus.
-
-But the tide began to shift after a few unpopular decisions and a lack of response to major issues which would incite the anger of not just faculty and students, but legislators and the general public. 
-
-Wasinger 949
-I know and like Tim Wolfe. I think he’s a good person. Tim probably could have gotten out in front of some issues better than he did. 
-
-MUSIC SHIFT
-   
-University of Missouri Kansas City professor Gary Ebersole says Wolfe’s first misstep was in 2012, deciding to close the University operated publishing house: the University of Missouri press. 
-
-Ebersole 7:30ish
-He came into the office, looks over budgets and sees that the university press was in the red. And he very quickly said we’re not going to keep a university press that’s in the red, without understanding that there is not a single university press in the country that makes money. In other words, universities subsidize the presses because it is an absolutely essential part of the investment in education that knowledge be distributed and disseminated to the world really.
-
-It wasn’t a bad decision from an economic perspective, but it was missing a certain nuance and deliberation that comes with decision making in the academic world. Shuttering the Missouri Press would have impacted publishers across the country. And Don Downing says Wolfe became aware of that. 
-
-Don Downing 14:34 
-There are certain things in the academic world that are different than the business world. So yeah i think tim would be the first to say that he made some mistakes and learned from those.
-
-Ultimately Wolfe reversed this decision. But critics point to other decisions too like the expansion of sports facilities, and over attentiveness to large donors at the expense of academic affairs - the institution’s bread and butter. 
-
-But to many of the curators, Wolfe’s biggest misstep may have been the hiring of R. Bowen Loftin as chancellor of the flagship campus in 2013. Wayne Goode.
-
-Goode1345
-I would say that that hire of Bowen and his performance is one of the most disappointing experiences that I've been part of.
- 
-Loftin, who previously was president at Texas A&M University, says he was hired by Wolfe to shake things up.
-
-Lofitn :28
-The curators and president Wolfe both told me I was to be an agent of change 
-
-Loftin moved swiftly as chancellor. He held the position for not even two years, but in that time he rocked the Columbia campus boat. 
-
-Under Loftin, 110 faculty and 13 administrators accepted early retirement, reportedly saving the university millions. 
-
-Loftin 15ish
-To be able to get about 10% of our senior tenured faculty to retire in one year, that's an extraordinary thing. To  free up the resources required to renew our faculty in a very short period of time. that's a very rare thing for a campus to be able to do so, I’m very proud this university was able to do that. 
-
-But last year, when student aid and benefits ended up on the chopping block, things got sloppy. The University announced it would cut Graduate student tuition waivers in half, then reversed the decision. . 
-
-Another snafu: health insurance subsidies for graduate students were dropped with only a one day heads up - a decision that Loftin himself reversed.
-
-The damage was done though. Large student demonstrations popped up on campus in response to these missteps, with many faculty backing them.
-
-Wayne Goode.
-
-Goode 2010
-Bowen would grab these situations and go through a process without including a whole lot of people -- maybe no one else -- and making decisions. I didn't see that coming.
-
-And there were other high profiles decisions - cutting the vice chancellor for health affairs position, revoking hospital privileges for a planned parenthood doctor, even the resignation of the dean of the medical school was attributed to Loftin. 
-
-Goode 2030
-But on these three or four problems that he had, the medical school, the planned parenthood, the others, he just went in and made his decisions that he didn't discuss with others and you can't run a campus that way. 
-
-All of these decisions drew backlash, from students, from faculty, even administrators - and most of it was directed at Loftin. But, Loftin says in every case, he was consulting with Tim Wolfe. 
-
+-----old----
 Loftin 1:20   [Loftin talking about Wolfe]
 I shared with him everything i knew here on campus that i felt was relevant. And every major decision I made was discussed with him before i made it so we had a very strong relationship I thought . Back in August of last year i had my second annual evaluation, in september sent me a letter giving me praise for my work and also indicating financial rewards along with that. So I felt - this was september of 2015 - i felt we were on good terms at that point.
 
