@@ -10,7 +10,7 @@ KBIA spoke to seven of the curators who played some role in the hiring process o
 
 Before Gary Forsee became president of the University system, he was president and CEO of Sprint Nextel, before that, he worked for BellSouth, a telecommunications corporation, and for Cingular wireless, and for Global One, and for AT&T. In short, while he had a lot of experience, none of it was in higher education. And back in 2007, hiring a business person to run an academic institution was not as common of a practice, but some of the most pressing matters facing the University at the time of Forsee’s tenure were not inherently academic. Especially one: state funding. 
 
-Beginning in about 2002, state appropriations for the University of Missouri system began to dip. On just the Columbia campus, student enrollment grew by 45% between 2001 and 2012, In that same time period, state funding to the University dropped by 14 percent, from 193 million dollars down to 166 million. 
+Beginning in about 2002, state appropriations for the University of Missouri system began to dip. On just the Columbia campus, student enrollment grew by 45 percent between 2001 and 2012, In that same time period, state funding to the University dropped by 14 percent, from 193 million dollars down to 166 million. 
 
 There are only a few ways to make up that difference in funding. Tuition is one of them.
 
@@ -48,9 +48,9 @@ Ultimately Wolfe reversed this decision, but critics point to other decisions, t
 
 "The curators and president Wolfe both told me I was to be an agent of change."
 
-Loftin moved swiftly as chancellor. He held the position for not even two years, but in that time he rocked the Columbia campus boat. Under Loftin, 110 faculty and 13 administrators accepted early retirement, reportedly saving the university millions. 
+Loftin moved swiftly as chancellor. He held the position for not even two years, but in that time he rocked the Columbia campus boat. Under Loftin, 110 faculty and 13 administrators accepted early retirement, reportedly saving the university millions of dollars. 
 
-"To be able to get about 10% of our senior tenured faculty to retire in one year, that's an extraordinary thing," he said. "To free up the resources required to renew our faculty in a very short period of time. that's a very rare thing for a campus to be able to do so, I’m very proud this university was able to do that."
+"To be able to get about 10 percent of our senior tenured faculty to retire in one year, that's an extraordinary thing," he said. "To free up the resources required to renew our faculty in a very short period of time. that's a very rare thing for a campus to be able to do so, I’m very proud this university was able to do that."
 
 But last year, when student aid and benefits ended up on the chopping block, things got sloppy. The University announced it would cut Graduate student tuition waivers in half, then reversed the decision. Another snafu? Health insurance subsidies for graduate students were dropped with only a one day heads up -- a decision Loftin himself eventually reversed. The damage was done, though. Large student demonstrations popped up on campus in response to these missteps, with many faculty backing them.
 
