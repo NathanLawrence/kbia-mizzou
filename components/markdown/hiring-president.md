@@ -18,6 +18,9 @@ To the curators at the time, Gary Forsee’s business background made him sort o
 
 "The hiring of Gary Forsee was a kind of out-of-the-box move by the board of trustees who decided they wanted a businessman. Faculty were not really involved not in the search itself and not enthused by the idea of a businessman."
 
+Forsee’s tenure was not without its hiccups, but over time he seemed to win over many stakeholders including the faculty. Even Ebersole agreed the arrangement seemed to work out, saying eventually, the two of them "worked quite well together."
+
+
 
 
 Craig [3ish]
