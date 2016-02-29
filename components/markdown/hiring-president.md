@@ -6,6 +6,13 @@ KBIA spoke to seven of the curators who played some role in the hiring process o
 
 “He was not your prototype of what historically had been viewed as president of a university system,” Don Downing, a former member of the University of Missouri System Board of Curators explained. “Gary came from a business background. He was CEO of Sprint.”
 
+Before Gary Forsee became president of the University system, he was president and CEO of Sprint Nextel, before that, he worked for BellSouth, a telecommunications corporation, and for Cingular wireless, and for Global one, and for AT&T. In short, while he had a lot of experience, none of it was in higher education. And back in 2007, hiring a business person to run an academic institution was not as common of a practice, but some of the most pressing matters facing the University at the time of Forsee’s tenure were not inherently academic. Especially one: state funding. 
+
+Beginning in about 2002, state appropriations for the University of Missouri system began to dip. On just the Columbia campus, student enrollment grew by 45%  between 2001 and 2012,  In that same time period, state funding to the University dropped by 14 percent, from 193 million dollars down to 166 million. 
+
+
+
+
 
 Craig [3ish]
 The feedback that the curators received from the 4 campuses was, ‘see if you can find somebody just like Gary Forsee because we really like him, and we really like his background. 
@@ -20,14 +27,6 @@ Don Downing is another former curator.
 Don [:45ish]
 Gary came from a business background, he was CEO of Sprint.
 
-Before Gary Forsee became president of the University system, he was president and CEO of Sprint Nextel, before that, he worked for BellSouth, a telecommunications corporation, and for Cingular wireless, and for Global one, and for AT&T. In short, while he had a lot of experience, none of it was in higher education. And back in 2007, hiring a business person to run an academic institution was not as common of a practice.
-
-But some of the most pressing matters facing the University at the time of Forsee’s tenure were not inherently academic. Especially one: state funding. Beginning in about 2002, state appropriations for the University of Missouri system began to dip.
-
-Don [1:32]
-We saw state funding for the university of system decline from 498 million in 2010, to 438 million in 2011, to 398 million in 2012 which is a decline of about a hundred million dollars in a three year period.
-
-On just the Columbia campus, student enrollment grew by 45%  between 2001 and 2012,  In that same time period, state funding to the University dropped by 14 percent, from 193 million dollars down to 166 million. 
 
 There are only a few ways to make up that difference in funding. Tuition is one of them. Here’s David Wasinger, a curator when Forsee was hired.
 
