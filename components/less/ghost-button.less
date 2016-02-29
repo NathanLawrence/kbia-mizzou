@@ -1,0 +1,60 @@
+//Nathan's Ghost Buttons
+.ghost-button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: darken(@brand-primary, 15%);
+  border: 1px solid darken(@brand-primary, 15%);
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+
+	&:hover, &:active {
+		background-color: darken(@brand-primary, 15%);
+		color: #fff;
+    text-decoration: none;
+    a { 
+      color: #fff;
+      &:hover, &:active{
+        color : #fff;
+        text-decoration : none;
+      }
+    }
+	}
+}
+
+.ghost-button-fill{
+  margin-top : 1em;
+  width:100%;
+}
+
+.ghost-button-white {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+
+  &:hover, &:active {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    a {
+      &:hover, &:active{
+        color : #fff;
+        text-decoration : none;
+      }
+      &:visited{
+        color : #fff;
+        text-decoration: none;
+      }
+      &:focus{
+        color : #fff;
+        text-decoration: none;
+      }
+    }
+  }
+}
