@@ -58,7 +58,7 @@ Then there were other high-profile decisions - cutting the vice chancellor for h
 
 "I shared with him everything I knew here on campus that I felt was relevant," Loftin said, "and every major decision I made was discussed with him before I made it so we had a very strong relationship, I thought. Back in August of last year I had my second annual evaluation, in september sent me a letter giving me praise for my work and also indicating financial rewards along with that. So I felt - this was september of 2015 - I felt we were on good terms at that point."
 
-Tim Wolfe did not respond to our multiple requests for an interview, but in a now infamous email published first by the Columbia Daily Tribune in January, Wolfe alluded to those decisions made by Loftin, adding that all of the deans on the Missouri campus had called for Loftin’s ouster and that Wolfe himself had requested support from the board of curators to fire Loftin. 
+Wolfe did not respond to our multiple requests for an interview, but in a now infamous email published first by the Columbia Daily Tribune in January, Wolfe alluded to those decisions made by Loftin, adding that all of the deans on the Missouri campus had called for Loftin’s ouster and that Wolfe himself had requested support from the board of curators to fire Loftin. 
 
 This was the environment, even before Wolfe’s confrontation with Concerned Student 1950 at the homecoming parade: tension, not just about race, but about university funding and top-down decision making, all of it part of the struggle to move the University forward into the realities of the 21st century.
 
