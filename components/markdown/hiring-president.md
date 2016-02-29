@@ -10,7 +10,13 @@ Before Gary Forsee became president of the University system, he was president a
 
 Beginning in about 2002, state appropriations for the University of Missouri system began to dip. On just the Columbia campus, student enrollment grew by 45%  between 2001 and 2012,  In that same time period, state funding to the University dropped by 14 percent, from 193 million dollars down to 166 million. 
 
+There are only a few ways to make up that difference in funding. Tuition is one of them. [Here’s David Wasinger, a curator when Forsee was hired.]
 
+"Tuition had gotten too high and we -- at least I -- wanted someone to monitor and make the university more efficient," said David Wasinger, another former curator. "A lot of the administrators and a lot of the faculty have an insatiable appetite for spending."
+
+To the curators at the time, Gary Forsee’s business background made him sort of an ideal fit for the tough financial times facing the university system. Not everyone saw his hire in the same light, though, including Gary Ebersole, a University of Missouri kansas city  professor and member of the UM System’s intercampus faculty council. 
+
+"The hiring of Gary Forsee was a kind of out-of-the-box move by the board of trustees who decided they wanted a businessman. Faculty were not really involved not in the search itself and not enthused by the idea of a businessman."
 
 
 
@@ -28,12 +34,10 @@ Don [:45ish]
 Gary came from a business background, he was CEO of Sprint.
 
 
-There are only a few ways to make up that difference in funding. Tuition is one of them. Here’s David Wasinger, a curator when Forsee was hired.
+
 
 Wasinger 3:30 
-Tuition had gone too high and we wanted to, at least I wanted, someone to monitor and make the university more efficient. A lot of the administrators and a lot of the faculty have an insatiable appetite for spending.
 
-To the curators at the time, Gary Forsee’s business background made him sort of an ideal fit for the tough financial times facing the university system. Not everyone saw his hire in the same light, though, including Gary Ebersole, a University of Missouri kansas city  professor and member of the UM system’s intercampus faculty council. 
 
 Ebersol 1:30ish
 The hiring of Gary Forsee was a kind of out of the box move by the board of trustees who decided they wanted a businessman. Faculty were not really involved not in the search itself and not enthused by the idea of a businessman. 
