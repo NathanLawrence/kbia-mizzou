@@ -56,45 +56,38 @@ But last year, when student aid and benefits ended up on the chopping block, thi
 
 Then there were other high-profile decisions - cutting the vice chancellor for health affairs position, revoking hospital privileges for a planned parenthood doctor, even the resignation of the dean of the medical school was attributed to Loftin. All of these decisions drew backlash, from students, from faculty, even administrators - and most of it was directed at Loftin, but he claims in every case, he was consulting with Tim Wolfe. 
 
+"I shared with him everything I knew here on campus that I felt was relevant," Loftin said, "and every major decision I made was discussed with him before i made it so we had a very strong relationship, I thought. Back in August of last year i had my second annual evaluation, in september sent me a letter giving me praise for my work and also indicating financial rewards along with that. So I felt - this was september of 2015 - i felt we were on good terms at that point."
 
------old----
-Loftin 1:20   [Loftin talking about Wolfe]
-I shared with him everything i knew here on campus that i felt was relevant. And every major decision I made was discussed with him before i made it so we had a very strong relationship I thought . Back in August of last year i had my second annual evaluation, in september sent me a letter giving me praise for my work and also indicating financial rewards along with that. So I felt - this was september of 2015 - i felt we were on good terms at that point.
+Tim Wolfe did not respond to our multiple requests for an interview, but in a now infamous email published first by the Columbia Daily Tribune in January, Wolfe alluded to those decisions made by Loftin, adding that all of the deans on the Missouri campus had called for Loftin’s ouster  and that Wolfe himself had requested support from the board of curators to fire Loftin. 
 
-  rTim Wolfe did not respond to our multiple requests for an interview. But in a now infamous email published first in the Columbia Daily Tribune in January, Wolfe alluded to those decisions made by Loftin, adding that all of the Deans on the Missouri campus had called for Loftin’s ouster  and that Wolfe himself had requested support from the board of curators to fire Loftin. 
+This was the environment, even before Wolfe’s confrontation with Concerned Student 1950 at the homecoming parade: tension, not just about race, but about university funding and top-down decision making, all of it part of the struggle to move the University forward into the realities of the 21st century.
 
-David Bradley.
+## The Breaking Point
 
-Bradley 11:53
-Hiring people is not a hundred percent, excuse me I’m in a waiting room of a hospital, I just had a grandbaby, so that’s why you have all that noise in the background. It’s not an error free task, and so anyway you never bat a thousand in hiring people, and apparently with bowen loftin it didn’t work out as a great fit for the university and it’s unfortunate, but it’s an unfortunate part of the deal. I’ll take some responsibility as a curator. All of the curators approved bowen loftin on Tim’s recommendation. 
+Anger and tension brewed in the university of missouri system. Many students were upset that administrators didn’t respond strongly when the student body President was called a racial slur off campus in September. Then, on Oct. 5, students in the Legion of Black Collegians were called the same slur on campus. Loftin released a video condemning the incident.
 
-And this was the environment, even before Wolfe’s confrontation with Concerned student 1950 at homecoming: tension, not just about race, but about university funding, top-down decision making, all of it part of the struggle to move the University forward into the realities of the 21st century.
-
-BUILD IN MUSIC STARTING HERE
-
-Anger and tension brewed in the university of missouri system. Many students were upset that administrators didn’t respond strongly when the student body President was called the “n word” off campus in September. 
-
-Then, on October 5th, students in the Legion of Black Collegians were called the n word on campus. Loftin came out strongly , releasing a video condemning the incident.
-
-FADE UP ACT
-It’s happened again. Just last night on Traditions Plaza, hate and racism were alive and well at Mizzou. The LBC royalty court was in the middle of preparing for their event when someone, one of us, went and called them racial slurs and showed how much hate they have in their hearts. 
-
-It’s enough, let's stop this. Let’s end hatred and racism at Mizzou. We’re part of the same family, you don’t hate your family. You don’t call your family those kinds of names. FADE UNDER Join with me and everyone else who is truly part of this family and say enough is enough and stop it now. 
-
-PROTEST CHANTING AGAIN…
+[embed video here]
 
 Emotions boiled over. It was just a few days later that Concerned Student 1950 stopped Tim Wolfe’s car at Homecoming. 
 
 The group issued a list of demands as Wolfe was slow to acknowledge the racial issues even after the homecoming demonstration. One of the demands was for Wolfe to be removed as President.
 
-1950 member Jonathan Butler began a hunger strike, saying it would only end when Wolfe was out as President.
+[embed that video here]
 
-The football team backed the protesters, boycotting practice and games until Butler could eat again - until Wolfe was gone. 
+Jonathan Butler, a black graduate student, began a hunger strike, saying it would only end when Wolfe was out as President. The football team backed the protesters, boycotting practice and games until Butler could eat again - when Wolfe was gone. Graduate students joined in. Faculty came out stongly in support of the protests, too. 
+
+On Nov. 9, less than a week before the university would face a $1 million fine for not participating in a football game if strike continued, the school reached its breaking point.
+
+
+
+-----old----
+
+
 
 Grad students joined in. r
 Faculty came out in support.
 
- November 9th. The university system had reached it’s breaking point. 
+
 
 NEWS BITE ACT ON WOLFE MAKING ANNOUNCEMENT
 ACT from KOMU
