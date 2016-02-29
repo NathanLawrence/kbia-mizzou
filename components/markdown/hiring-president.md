@@ -38,7 +38,7 @@ The curators courted Wolfe, trying to entice him to come back to his alma mater,
 
 Wolfe got the job and things started okay. He was a good 'ol boy who graduated from Mizzou. When the University came under scrutiny for their shortcomings related to Title IX issues, they were addressed quickly.
 
-## Heading Here
+## Tension Mounts
 
 Then the tide began to shift after a few unpopular decisions and silence on a few major issues. Ebersole says Wolfe’s first misstep was in 2012, deciding to close the University-operated publishing house, the University of Missouri press.
 
