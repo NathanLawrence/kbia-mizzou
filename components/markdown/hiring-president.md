@@ -20,6 +20,7 @@ To the curators at the time, Gary Forsee’s business background made him sort o
 
 Forsee’s tenure was not without its hiccups, but over time he seemed to win over many stakeholders including the faculty. Even Ebersole agreed the arrangement seemed to work out, saying eventually, the two of them "worked quite well together."
 
+In Jan. 2011, less than three years into his tenure, Forsee resigned following his wife’s cancer diagnosis. Downing says the perceived success of Forsee’s tenure opened the field of possibilities in the search for his successor, but it may have been more than just that. Although every curator we spoke to said they considered all types of candidates, by most accounts, given the continued financial constraints on the University system, most curators thought it made sense to replace Forsee with another person with a business background. [Here’s former curator Craig Van Matre.]
 
 
 
@@ -55,7 +56,7 @@ The curators, including Wayne Goode who joined the board in 2009, also were enco
 Wayne [1:30ish
 Gary was in the process of tightening up management systems and I think doing a pretty good job of it. 
 
-In January 2011, less than three years into his tenure, , Forsee resigned following his wife’s cancer diagnosis. And Don downing says the perceived success of Forsee’s tenure opened the field of possibilities in the search for his successor. 
+In January 2011, less than three years into his tenure, Forsee resigned following his wife’s cancer diagnosis. And Don downing says the perceived success of Forsee’s tenure opened the field of possibilities in the search for his successor. 
 
 Actually it may have been more than that. Although every curator we spoke to said they considered all types of candidates, by most accounts, given the continued financial constraints on the University system, most curators  thought it made sense to replace Forsee with another person with a business background. Here’s former curator Craig Van Matre. 
 
