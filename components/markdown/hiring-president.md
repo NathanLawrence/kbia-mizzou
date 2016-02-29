@@ -104,65 +104,22 @@ The Marketing and Communication department, headed by Interim Vice Chancellor Je
 
 When Christian says stakeholders, he means alumni, students, donors, prospective students and parents. He says the literature put out by the marketing and commications department comes across as defensive with sections titled “It's Not Just Mizzou,” “We Support Civil Liberties” and “Personnel Matters are Private.” 
 
-He says it’s a piece of work too quickly churned out. 
+"If I'm a paying customer," Christian said, "enough is enough -- and listen, I'm not very happy with your service, you need to do something about it."
 
------old----
+## Is a School a Business?
 
+Sara Goldrick Rab, a professor of educational policy studies at the University of Wisconsin Madison, says students have increasingly been viewed as consumers, hence why we are seeing more business managers as candidates to run schools -- but it might not be that simple.
 
-Christian 1313
-If I'm a paying customer enough is enough. And listen I'm not very happy with your service, you need to do something about it.
+"Students are very much not consumers in the classic sense," she said. "They are not purchasing something that is discreet and can be sort of bought and sold in an easy fashion. It means different things to different people, what education is, and it would kind of be like buying and selling love. It is not a tangible product and it again comes about in different ways for different people and means different things, but we all know it’s valuable."
 
-Goldrick620
-The university business type administrators view the students at customers.
+But on the other side, students today are also starting to understand they are an economic force -- that if education is a business, they are vital to its viability.
 
-Sara Goldrick Rab is a professor of educational policy studies at the University of Wisconsin Madison. She says students have increasingly been viewed as consumers, hence why we are seeing more business managers as candidates to run schools.
+"This means that this group of students is more likely to question the system to ask why things are happening, to object to the con ditions of their lives. And so, I think the fact is that we’ve seen increases in enrollment among people whose parents didn’t go to college, among people from ethnic and racial minority groups and from people from low income families and it’s quite possible that adding them to the dynamic of a college campus helps to generate this change that we’re seeing today."
 
-Goldrick 700
-students are very much not consumers in the classic sense, they are not purchasing something that is discreet and can be sort of bought and sold in an easy fashion. It means different things to different people, what education is. And it would kind of be like buying love, buying and selling love, it is not a tangible product and it again comes about in different ways for different people and means different things but we all know it’s valuable. 
+This will be an important issue on the table when the latest board of curators starts their hiring process for Wolfe’s replacement. The curators have to answer: How do you balance the economic needs of a university system with the academic and development needs of its students.
 
-On the flip side, students today are starting to understand how they fit into this business education model, suggesting ‘hey, two can play that game.’ 
+"It's a brave new world," Pamela Hendrickson, current chair of the board, said, "and President Middleton has brought to the fore how different the students' experiences on campus today are from those we experienced when we went to college, and even from what my children experienced when they went through college. We need to be more attunded to that, and to the way students see the world."
 
-Goldrick 1120
-This means that this group of students is more likely to question the system to ask why things are happening, to object to the con ditions of their lives. And so, I think the fact is that we’ve seen increases in enrollment among people whose parents didn’t go to college, among people from ethnic and racial minority groups and from people from low income families and it’s quite possible that adding them to the dynamic of a college campus helps to generate this change that we’re seeing today.
+So far, the curators have spoken openly about considering academic candidates, and they've also added student and faculty voting positions to the hiring committee, but this won't simply solve the greater problems the system and Columbia campus face.
 
-This is a big issue to consider when the latest board of curators start the hiring process for Wolfe’s replacement. The curators have to answer: How do you balance the economic needs of a university system with the academic and development needs of its students.
-
-Current chair of the board Pamela Hendrickson
-
-
-Pam 9:46
-Currently, it’s brave new world. And President Middleton has brought to the fall how different the students’ experiences on campus today, wherever, and all over the country, all are those we experience when we went to college. And even from what my children’s experienced, when they went through colleges. And we need to be more attuned (10:20) to that, and to the way the students see the world. 
-
-
-So far the curators have talked openly about considering academic candidates and they’ve also added student and faculty voting positions to the hiring committee. 
-
-But there is clearly a race issue s that the university president will need to address that a business leader may not be as equipped for . 
-
-
-
-B:Ultimately, the UM system clearly has management problems, an image problem with its stakeholders including state legislators, and an inclusivity problem with its students on campus. 
-
-Indeed, the state of the university address, which was meant to be a shift to refocus on more positive points of pride for the school, was overshadowed. Tom Hiles.
-
-HilesB
-“Unfortunately on the week of that state of university address, on Monday, Melissa click, she was charged with misdemeanor assault. Maty Mauk got kicked off the football team. And then Tim Wolf’es email came out. That was a little challenging on a week we were trying to pivot.
-
-Whoever is hired as president is going to have to spearhead the racial and social issues the campus has been dealing with. Ty Christian again.
-
-Christian 915
-The university of Missouri, like most institutions, always had obviously racial tension, racial distress, but for the most part nobody talked about it. If you were a kid of color who went to university of Missouri, you sort of tolerated it just to get your degree and you got out of there and you went back to your given city or your given hometown and moved on with your career. 
-
-Christian says this is a pivotal time for the school to respond not hastily but powerfully.
-
-(BUILD OUTRO MUSIC HALFWAY THROUGH)
-
-Christian 3700
-This is a moment for Mizzou to be courageous and by being courageous bold and innovative, without hesitation, we will be a leading university and a thought leader where people will be coming to us and saying hey how did you overcome those issues you had, because not only did you rebound, but you're bigger better and bolder than you were before.
-
-I’m Kristofor Husted. And I’m Bram Sable-Smith
-
-Coming up in part three of our series, we look at how the Columbia campus plan to address many of the issues brought to the forefront last semester. And they’ll discuss what is even achievable when it comes to addressing issues of race. 
-
-4:20 How much can we change? Tremendous. We all can. We all can. There is room for change on every level, from administration, to students to faculty to staff, we all don’t know everything, we’re all goring, and that’s what culture is, culture evolves and culture is evolving here at Mizzou.
-
-Tune in tomorrow at 6 _ for the third and final piece of the series “Mizzou at a Crossroads” on KBIA. And visit KBIA.org to find part 1.
+"This is a moment for Mizzou to be courageous," Ty Christian said, "and by being courageous bold and innovative, without hesitation, we will be a leading university and a thought leader where people will be coming to us and saying hey how did you overcome those issues you had, because not only did you rebound, but you're bigger better and bolder than you were before."
