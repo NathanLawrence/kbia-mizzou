@@ -2,7 +2,10 @@ Most timelines of the events that led to the November 9th resignation of former 
 
 But to understand how Tim Wolfe, the president of the entire university system, became the target of this movement, we have to turn back the clock much further, to when Wolfe was first hired.
 
-We spoke to seven of the curators who played some role in the hiring process of Tim Wolfe:  in the beginning, the end, or all the way through.  From those conversations, a few common themes emerged.   The first:it is impossible to talk about Tim Wolfe’s hiring without first mentioning his predecessor: Gary Forsee
+KBIA spoke to seven of the curators who played some role in the hiring process of Tim Wolfe:  in the beginning, the end, or all the way through.  From those conversations, a few common themes emerged.   The first:it is impossible to talk about Tim Wolfe’s hiring without first mentioning his predecessor: Gary Forsee.
+
+“He was not your prototype of what historically had been viewed as president of a university system,” Don Downing, a former member of the University of Missouri System Board of Curators explained. “Gary came from a business background. He was CEO of Sprint.”
+
 
 Craig [3ish]
 The feedback that the curators received from the 4 campuses was, ‘see if you can find somebody just like Gary Forsee because we really like him, and we really like his background. 
