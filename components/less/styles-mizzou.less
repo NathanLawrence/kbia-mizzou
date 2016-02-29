@@ -2,7 +2,7 @@
  * Still by Nathan Lawrence
  */
 
- .titlecard-mizzou{
+ .titlecard-mizzou-1{
  	background-image: url("../img/head-back.jpg");
  	background-width : contain;
  	background-blend-mode : multiply;
@@ -29,6 +29,35 @@
             font-size : 1.2em;
         }
  	}
+ }
+
+  .titlecard-mizzou-2{
+    background-image: url("../img/jesse-back.jpg");
+    background-width : cover;
+    background-blend-mode : multiply;
+    background-position: center; 
+
+    h1{
+        .fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 3em;
+            padding-top : 3em;
+        }
+    }
+
+    .subtitle{
+        .fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 2em;
+        }
+    }
+
+    .author{
+        .fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 1.2em;
+        }
+    }
  }
 
  #intro{
