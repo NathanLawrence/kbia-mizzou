@@ -34,7 +34,7 @@ That Vice Chancellor position was created the same day System President Tim Wolf
  
 “We are at the point of talking about the truth. We are beginning that conversation,” Henson said.
 
-## Student Voices
+## In Each Other's Shoes
 
 One of Henson’s first tasks was setting up a new mandatory diversity training for staff and all incoming students.
 
@@ -42,29 +42,9 @@ Students start filing into an auditorium in one of the student centers for the t
 
 Grant Durham is one of the students filing into the auditorium. He’s white, from suburban Kansas City. He shows up in a blue dress shirt with a matching blue bow tie. I pepper him with some questions about what he’s expecting.
 
-“I don’t know much. All I know is that the intentions of this program are to spread diversity and acceptance and awareness,” Durham said.
-
-_Do you think this is worth your time?_
-
-“I do think it’s worth my time because I think it’s important for students at the University of Missouri to have a good sense of home here,” Durham said.
-
-_Are you familiar with some of the stuff that happened here last semester, and what do you think about what happened here last semester?_
-
 “I think, I’m not fully educated on the subject, but from what I’ve heard, I think it’s a little bit ridiculous that people threw such a fit about it,” Durham said.
 
-_What do you mean, fit about what?_
-
-“Wasn’t there like some students who thought, actually I’m sorry I don’t know enough,” Durham said.
-
 Malcolm Edwards is another student here. He’s black, from the city of St. Louis. He wears a red hoodie and brown leather jacket. He sits down a couple rows behind Grant. I also grill him a bit about the session.
-
-“Yeah it’s important, yeah,” Edwards said.
-
-_Why?_
-
-“Some people like, just don’t know what happened, so…” Edwards said
-
-_What do you mean by that, what happens?_
 
 “Like I could go through something different than you do every day so basically like that. Like everybody has a different type of story. Something could happen to them. Something may not happen to them happens to other people, who knows?” Edwards said.
 
@@ -86,15 +66,17 @@ Along the way, the professors all try to engage. Sometimes they get bites, other
 
 “Building your own experiences with diversity means getting involved with student organizations getting involved with service learning and study abroad opportunities and activities. But most of all, being willing to embrace the possibility to stretch yourself. That means putting yourself in situations that move you to think differently. To consider new ways of being. To grow and develop. That’s stretching,” Education Professor Antonio Castro said.
 
-Toward the end, a few students share their stories: one about being biracial, but not looking it. Another about what it was like to be friends with a gay student in a small town. After about two hours, it’s done.
+Toward the end, a few students share their stories: one about being biracial, but not looking it, another about what it was like to be friends with a gay student in a small town. After about two hours, it’s done.
 
 Malcolm Edwards, the black student in boat shoes, was sitting right next to the door, and he’s the first student out. Grant Durham, the white student in boat shoes, walks out right behind Malcolm. Neither talk to any other students as they leave.
 
 “I don’t think it will go anywhere from, like, here. It’s just like you know trying to get people to understand I guess but like, like when you’re out in the real world who knows what’s going to happen? So like it may not be fixed but I mean who knows, though...” Edwards said.
 
-There will be other discussions on campus focused on race this semester, but Grant says he’s not sure if he’ll have time for those.
+There will be other discussions on campus focused on race this semester, but Grant says he’s not sure if he’ll have time for those:
 
-“I’m pledging a fraternity right now, so I’m pretty busy with that and keeping up with schoolwork but it’s a good program and if I had the time and I was open then yeah, I would,” Durham said.
+“I’m pledging a fraternity right now, so I’m pretty busy with that and keeping up with schoolwork but it’s a good program and if I had the time and I was open then yeah, I would."
+
+## Inspiring the Conversation
 
 A handful of students do stay afterward to talk with the professors, or other students. Stephanie Shonekan is the professor who ran the event. She’s a Professor of Ethnomusicology and Black Studies at MU. She was also recently appointed to the search committee for the new UM System President. She says training isn’t the way to think about what they’re trying to do with these sessions.
 
@@ -118,7 +100,7 @@ Henson knows his job is a tall order, and he’s still shaping it. It’s also o
 
 (Include list of demands here?)
 
-Henson is still in the process of navigating that relationship with Concerned Student 1950, recently writing the group to tell them (LINK? If we post Zack’s story?), “If you sincerely want better relationships, the time for demands, threats and arbitrary deadlines is over — you don't need them.”
+Henson is still in the process of navigating that relationship with Concerned Student 1950, recently writing the group to tell them, “If you sincerely want better relationships, the time for demands, threats and arbitrary deadlines is over — you don't need them.”
 
 One of the first concrete things Henson did was a work with the state historical society to create a 18-month lecture series on the black experience in Missouri. The first one was held in February, when a speaker talked about the history of slavery in Missouri to a packed crowd in an auditorium on campus.
 
@@ -132,10 +114,9 @@ But the students who helped create it, graduated. Deaton retired in 2013. And by
 
 “Well, I think we learned that we have to maintain an ongoing dialogue about important issues. Staying engaged, demonstrating respect for all segments of the community, there is no alternative to that,” Deaton said.
 
-But there’s another big challenge here. Many students quite simply don’t know how to have these conversations in the first place, so they’re hesitant to engage.
+## Starting the Conversation
 
-NOTE: http://cdi.missouri.edu/programs-services/talkingaboutrace/index.php
-Could use the handout as an element
+But there’s another big challenge here. Many students quite simply don’t know how to have these conversations in the first place, so they’re hesitant to engage.
 
 Beyond the diversity training, there is a push to equip students to be prepared for these conversations. The Chancellor’s Diversity Initiative has been distributing literature with titles like “How to Talk about Race.” There are also diversity peer educators on campus. They meet with any group that will have them to go through exercises that help students explore these issues. Alanna Diggs is one of those educators.
 
@@ -161,11 +142,9 @@ About three weeks after Chuck Henson and other University leaders sat and listen
 
 Curator David Steelman responded by saying he didn’t consider it a disruption, and was glad to hear their voices.
 
-Not everyone agreed with Steelman, though. The next week, State Representative Donna Lichtenegger, the chair of the House Appropriations-Higher Education Committee, announced they were moving forward with a plan to give every state college and University in the state a 2 percent increase in funding from last year, except for the University of Missouri system. She said it was in response to the events last semester, and because MU hasn’t fired Communications Professor Melissa Click yet for her actions during the student demonstrations. But Lichtenegger also said that for her, the last straw was when the Curators didn’t shut down the protest by 1-9-5-0 at this meeting.
+Not everyone agreed with Steelman, though. The next week, State Representative Donna Lichtenegger, the chair of the House Appropriations-Higher Education Committee, announced they were moving forward with a plan to give every state college and University in the state a 2 percent increase in funding from last year, except for the University of Missouri system. She said it was in response to the events last semester, and because MU hasn’t fired Communications Professor Melissa Click yet for her actions during the student demonstrations. But Lichtenegger also said that for her, the last straw was when the Curators didn’t shut down the protest by 1950 at this meeting.
 
-But back to that Curators meeting the week before. The day after the 1-9-5-0 interruption, the Board opened its meeting in an unusual way.
-
-(Maybe Sarah Kellogg took photos?)
+But back to that Curators meeting the week before. The day after the 1950 interruption, the Board opened its meeting in an unusual way.
 
 “I believe that if we could all demonstrate respect for each other as a minimum and actually feel respect for each other as the ideal, issues of bias will be diminished,” Board Chair Pam Hendrickson said, making the introduction. “I am of the opinion that offense is taken when none is intended…. So how do we learn what other people find disrespectful and how do we communicate in a polite and respectful way that we feel disrespected by the words or actions of another? I’ve asked Chuck Henson, Chief Diversity Officer for the MU campus, to put together a panel discussion to address these questions and to open our eyes to making all of our interactions more positive.”
 
@@ -175,9 +154,9 @@ The students used some of their time to make suggestions.
 
 “It would behoove the interim chancellor and the board of curators to immediately create a diversity task force, similar to the GSC task force that led to the immediate increase of graduate stipends. This research based action group will address the underrepresnetation of marginalized groups among faculty, graduate students and undergrads,” said student Timothy Love.
 
-The also used some of their time to air grievances.
+They also used some of their time to air grievances.
 
-“So what does respect look like when it comes to the Board of Curators? Respect looks like not just have CIS-gendered majority faces sitting and staring back at me in shock that I’m saying all of this at 10:00 a.m. in the morning. That’s not respect. Respect isn’t having to go through Jeff City and understand that the real power isn’t here, but it’s in the super majority that runs Jeff City,” said student Kelcea Barnes
+“So what does respect look like when it comes to the Board of Curators? Respect looks like not just have CIS-gendered majority faces sitting and staring back at me in shock that I’m saying all of this at 10:00 a.m. in the morning. That’s not respect. Respect isn’t having to go through Jeff City and understand that the real power isn’t here, but it’s in the supermajority that runs Jeff City,” another student, Kelcea Barnes, said.
 
 “As long as the Board of Curators prioritizes profits and wealth over and above academics, there can never be a culture of respect. As long as students are viewed as commodities or sources of revenue, serious measures to solidify unity will never be taken,” Love said.
 
