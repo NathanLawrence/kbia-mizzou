@@ -8,7 +8,7 @@ Every year that I come there has been this very inspiring sense of togetherness 
 
 There’s music, an awards ceremony, all that. But when the keynote speaker took the stage, the tone of the event quickly changed.
 
-## A Stark Comparison
+## Next Steps
 
 “Can I testify for a minute? I’m going to, you might as well give it to me,” Reverend Starsky Wilson said, to laughter, “Living in and facing up to the facts of Ferguson is enough to stress you out.”
 
@@ -26,17 +26,17 @@ Now, he says, the focus must be on inclusion and equity.
 
 The event ran longer than planned, and afterward many people stayed to visit. The MU leaders, though, headed straight for the door. They were late for meetings in Jefferson City, and back on campus. They have a lot of work to do.
 
-One of them is Chuck Henson. As a black man, he says the progression Wilson talked about rings true for him. Three of the four steps are right there in Henson’s title.
+One of them is Chuck Henson. As a black man, he says the progression Wilson spoke about rings true for him. Three of the four steps are right there in Henson’s title.
 
 “Yes, that is the name of the division, division of inclusion, diversity, and equity. Vice Chancellor of inclusion, diversity and equity,” Henson said.
 
-That Vice Chancellor position was created the same day President Tim Wolfe and Chancellor R. Bowen Loftin resigned in November. Henson, an Associate Dean in the MU law school, was appointed to the new position on an interim basis the next day.
+That Vice Chancellor position was created the same day System President Tim Wolfe and University of Missouri Chancellor R. Bowen Loftin resigned in November. Henson, an Associate Dean in the University of Missouri law school, was appointed to the new position on an interim basis the next day.
  
 “We are at the point of talking about the truth. We are beginning that conversation,” Henson said.
 
-One of Henson’s first tasks was setting up a new mandatory diversity training for staff and all incoming students.
+## Student Voices
 
-NOTE: I’ve got some crappy iphone photos we can use here, as well as the raw audio from the session Trying to get the video.
+One of Henson’s first tasks was setting up a new mandatory diversity training for staff and all incoming students.
 
 Students start filing into an auditorium in one of the student centers for the third and final session. Students just needed to attend one. Since it’s the spring semester, it’s a smaller group: about 60 students. Many of them are transfer or international exchange students. It’s clear why the students are here.
 
@@ -44,15 +44,15 @@ Grant Durham is one of the students filing into the auditorium. He’s white, fr
 
 “I don’t know much. All I know is that the intentions of this program are to spread diversity and acceptance and awareness,” Durham said.
 
-Do you think this is worth your time?
+_Do you think this is worth your time?_
 
 “I do think it’s worth my time because I think it’s important for students at the University of Missouri to have a good sense of home here,” Durham said.
 
-Are you familiar with some of the stuff that happened here last semester, and what do you think about what happened here last semester?
+_Are you familiar with some of the stuff that happened here last semester, and what do you think about what happened here last semester?_
 
 “I think, I’m not fully educated on the subject, but from what I’ve heard, I think it’s a little bit ridiculous that people threw such a fit about it,” Durham said.
 
-What do you mean, fit about what?
+_What do you mean, fit about what?_
 
 “Wasn’t there like some students who thought, actually I’m sorry I don’t know enough,” Durham said.
 
@@ -60,12 +60,11 @@ Malcolm Edwards is another student here. He’s black, from the city of St. Loui
 
 “Yeah it’s important, yeah,” Edwards said.
 
+_Why?_
 
-Why?
+“Some people like, just don’t know what happened, so…” Edwards said
 
- “Some people like, just don’t know what happens, so…” Edwards said
-
-What do you mean by that, what happens?
+_What do you mean by that, what happens?_
 
 “Like I could go through something different than you do every day so basically like that. Like everybody has a different type of story. Something could happen to them. Something may not happen to them happens to other people, who knows?” Edwards said.
 
@@ -75,15 +74,15 @@ Both Durham and Edwards say they have friends of the opposite race, and have con
 
 “I mean, like if I talk to someone of my own race they’re like more, most of the time like more, when talking about it they get angry halfway through or something, something happened to them. When I talk to somebody from a different race, they just don’t see it from like our point of view I guess?... It’s just like they don’t see it, like understand it so. Cause you know like they haven’t seen it and it doesn’t hurt them so like they I don’t want to say they don’t care but they don’t care basically,” Edwards said.
 
-It isn’t until I finish talking to them, that I notice: Grant and Malcolm are literally both wearing the exact same brown boat shoes.
+It isn’t until I finish talking to them, that I notice: Grant and Malcolm are both wearing the exact same brown boat shoes.
 
-This mandatory training has been branded as a “diversity orientation program.” There are eight professors in the front of the room from all different disciplines. They’re of a variety of races and backgrounds.
+This mandatory training has been branded as a 'diversity orientation program.' There are eight professors in the front of the room from all different disciplines. They’re of a variety of races and backgrounds.
 
 They open with a loose discussion, and try their best to get students to engage.
 
 Later, each of the professors gives a short presentation related to their field. Most of them have some relevance to the issues of diversity: one professor talks about people appropriating other cultures: like the example of a fraternity holding a Mexican-themed party where members showed up dressed like lawn care workers. One talks about his research into why Serena Williams makes far less money each year than Maria Sharapova, despite the fact that Williams, a black woman, is a consistently better tennis player to Sharapova, who is white. There’s even a section on comic books.
 
-Along the way, the professors all try to engage. Sometimes they get bites, other times it’s crickets. The lectures are about race… but mostly informational, occasionally instructional.
+Along the way, the professors all try to engage. Sometimes they get bites, other times it’s crickets. The lectures are about race -- mostly informational, occasionally instructional.
 
 “Building your own experiences with diversity means getting involved with student organizations getting involved with service learning and study abroad opportunities and activities. But most of all, being willing to embrace the possibility to stretch yourself. That means putting yourself in situations that move you to think differently. To consider new ways of being. To grow and develop. That’s stretching,” Education Professor Antonio Castro said.
 
@@ -91,13 +90,13 @@ Toward the end, a few students share their stories: one about being biracial, bu
 
 Malcolm Edwards, the black student in boat shoes, was sitting right next to the door, and he’s the first student out. Grant Durham, the white student in boat shoes, walks out right behind Malcolm. Neither talk to any other students as they leave.
 
-“I don’t think it will go anywhere from, like, here. It’s just like you know trying to get people to understand I guess but like, like when you’re out in the real world who knows what’s going to happen? So like it may not be fixed but I mean who knows, though…” Edwards said.
+“I don’t think it will go anywhere from, like, here. It’s just like you know trying to get people to understand I guess but like, like when you’re out in the real world who knows what’s going to happen? So like it may not be fixed but I mean who knows, though...” Edwards said.
 
-There will be other discussions on campus focused on race this semester. But Grant says he’s not sure if he’ll have time for those.
+There will be other discussions on campus focused on race this semester, but Grant says he’s not sure if he’ll have time for those.
 
-“I’m pledging a fraternity right now so I’m pretty busy with that and keeping up with schoolwork but it’s a good program and if I had the time and I was open then yeah, I would,” Durham said.
+“I’m pledging a fraternity right now, so I’m pretty busy with that and keeping up with schoolwork but it’s a good program and if I had the time and I was open then yeah, I would,” Durham said.
 
-A handful of students do stay afterward to talk with the professors, or other students. Stephanie Shonekan is the professor who ran the event. She’s a Professor of Ethnomusicology and Black Studies at MU. (She was also recently appointed to the search committee for the new UM System President. LINK? We did this story) She says training isn’t the way to think about what they’re trying to do with these sessions.
+A handful of students do stay afterward to talk with the professors, or other students. Stephanie Shonekan is the professor who ran the event. She’s a Professor of Ethnomusicology and Black Studies at MU. She was also recently appointed to the search committee for the new UM System President. She says training isn’t the way to think about what they’re trying to do with these sessions.
 
 “We didn’t want to be teaching at them, we wanted them to know that this was to be a conversation so that in that conversation we can get to know each other. They can see that in classrooms there is conversation there is interaction and in a lot of ways we were trying to model what we do in class,” Shonekan said.
 
@@ -113,13 +112,13 @@ The language is the same In the conversation in Chuck Henson’s new office in J
 
 “Culture doesn’t change, culture evolves…. So it’s going to take quite some time for some of the things that we all desire to occur. But we’re getting started,” Henson said.
 
-Henson knows his job is a tall order, and he’s still shaping it. It’s also only an interim post for him: three finalists are currently interviewing for the full time job. Henson says just in the last few weeks, student groups for Asian students, and Jewish students have reached out to him trying to figure out how they can utilize this new office. But, the events of last semester have created an urgent need to discuss the experience of black students on campus. Henson says, to find a way forward, he looked back to the list of demands Concerned Student 1-9-5-0 made of administrators last semester.
+Henson knows his job is a tall order, and he’s still shaping it. It’s also only an interim post for him: three finalists are currently interviewing for the full time job. Henson says just in the last few weeks, student groups for Asian students, and Jewish students have reached out to him trying to figure out how they can utilize this new office. But, the events of last semester have created an urgent need to discuss the experience of black students on campus. Henson says, to find a way forward, he looked back to the list of demands Concerned Student 1950 made of administrators last semester.
 
 “And I could see three areas. One: how do we treat each other? Two: what do we know? what are the facts? What should we know? And the third one was, who’s here?”
 
 (Include list of demands here?)
 
-Henson is still in the process of navigating that relationship with Concerned Student 1-9-5-0, recently writing the group to tell them (LINK? If we post Zack’s story?), “If you sincerely want better relationships, the time for demands, threats and arbitrary deadlines is over — you don't need them.”
+Henson is still in the process of navigating that relationship with Concerned Student 1950, recently writing the group to tell them (LINK? If we post Zack’s story?), “If you sincerely want better relationships, the time for demands, threats and arbitrary deadlines is over — you don't need them.”
 
 One of the first concrete things Henson did was a work with the state historical society to create a 18-month lecture series on the black experience in Missouri. The first one was held in February, when a speaker talked about the history of slavery in Missouri to a packed crowd in an auditorium on campus.
 
@@ -138,7 +137,7 @@ But there’s another big challenge here. Many students quite simply don’t kno
 NOTE: http://cdi.missouri.edu/programs-services/talkingaboutrace/index.php
 Could use the handout as an element
 
-Beyond the diversity training, there is a push to equip students to be prepared for these conversations. The Chancellor’s Diversity Initiative has been distributing literature with titles like “How to talk about race?” There are also diversity peer educators on campus, who meet with any group that will have them, to go through exercises to help students explore these issues. Alanna Diggs is one of those educators.
+Beyond the diversity training, there is a push to equip students to be prepared for these conversations. The Chancellor’s Diversity Initiative has been distributing literature with titles like “How to Talk about Race.” There are also diversity peer educators on campus. They meet with any group that will have them to go through exercises that help students explore these issues. Alanna Diggs is one of those educators.
 
 “It’s really hard to come into a space for only an hour and to kind of drop a bomb on someone, like everything you’ve learned in society was maybe not what you thought it was,” Diggs said.
 
@@ -158,7 +157,7 @@ Remember this part of Reverend Starsky Wilson’s speech at the Columbia Values 
 
 “If diversity is about what you can see in the room, inclusion is about who actually gets to speak, who got to set up the program, who got to set up the agenda, who gets listened to?
 
-About three weeks after Chuck Henson and other University leaders sat and listened to Wilson, the UM Board of Curators held its next regular meeting. On the first day of the meeting, members of Concerned Student 1-9-5-0 interrupted the meeting to re-read the list of demands the group made during demonstrations last semester.
+About three weeks after Chuck Henson and other University leaders sat and listened to Wilson, the UM Board of Curators held its next regular meeting. On the first day of the meeting, members of Concerned Student 1950 interrupted the meeting to re-read the list of demands the group made during demonstrations last semester.
 
 Curator David Steelman responded by saying he didn’t consider it a disruption, and was glad to hear their voices.
 
