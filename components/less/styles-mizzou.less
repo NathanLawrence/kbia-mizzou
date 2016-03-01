@@ -60,6 +60,35 @@
     }
  }
 
+.titlecard-mizzou-3{
+    background-image: url("../img/mizzou-back.jpg");
+    background-width : cover;
+    background-blend-mode : multiply;
+    background-position: center; 
+
+    h1{
+        .fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 3em;
+            padding-top : 3em;
+        }
+    }
+
+    .subtitle{
+        .fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 2em;
+        }
+    }
+
+    .author{
+        .fade-in-page-load(1s,0s);
+        @media screen and (max-width: @screen-sm){
+            font-size : 1.2em;
+        }
+    }
+ }
+
  #intro{
  	padding-top : 1.2em;
  }
