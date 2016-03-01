@@ -134,9 +134,7 @@ Chuck Henson says this is where things get difficult, but it’s important to pu
 
 “I don’t anticipate any of the exchange to be counterproductive. At times one becomes impassioned because there are feelings involved, and everyone’s voice has a place,” Henson said.
 
-Remember this part of Reverend Starsky Wilson’s speech at the Columbia Values Diversity event?
-
-“If diversity is about what you can see in the room, inclusion is about who actually gets to speak, who got to set up the program, who got to set up the agenda, who gets listened to?
+## "Who Gets Listened to?"
 
 About three weeks after Chuck Henson and other University leaders sat and listened to Wilson, the UM Board of Curators held its next regular meeting. On the first day of the meeting, members of Concerned Student 1950 interrupted the meeting to re-read the list of demands the group made during demonstrations last semester.
 
